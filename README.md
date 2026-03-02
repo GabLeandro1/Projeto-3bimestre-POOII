@@ -1,4 +1,4 @@
-<h1 align="center">💻 Software que simula uma Petshop</h1>
+<h1 align="center">💻 Software de gestão de agendamentos para Petshop</h1>
 
 ## 📅 Cadastro de Agendamento
 <p align="center">
